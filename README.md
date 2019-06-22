@@ -1,2 +1,2 @@
 # github-demo
- simple demo repository
+ simply practice pull and push from my local machine 
